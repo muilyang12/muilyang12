@@ -1,0 +1,18 @@
+## Hi! I'm Muil Yang ✨
+
+### Experience
+
+- Jan. 2021 – May 2024: **Software Engineer** @ _Midas IT (MIDASoft Inc.)_, Republic of Korea
+- Sep. 2019 – May 2020: **Research Assistant** @ _The University of Texas at Arlington_, Arlington, TX
+
+### Education
+
+- Aug. 2024 – Present: Computer Science @ _The University of Texas at Dallas_, Richardson, TX
+- Mar. 2021 – Aug. 2023: Computer Science @ _Korea National Open University_, Republic of Korea
+- Mar. 2013 – Feb. 2021: Engineering @ _Yonsei University_, Republic of Korea
+
+### Technical Skills
+
+- Languages: JavaScript/TypeScript, Python, C/C++, DB(SQLite, MySQL MongoDB), HTML/CSS
+- Frameworks: React.js, Next.js, Node.js, Django, Flask
+- Developer Tools: Git, GitHub/Bitbucket, Docker, Amazon Web Service (EC2, S3, CloudFront, Lambda, etc.)
