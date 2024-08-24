@@ -18,7 +18,7 @@ Hello! I'm currently pursuing my Master's degree in Computer Science at The Univ
 
 ### Technical Skills
 
-- Languages: JavaScript/TypeScript, Python, C/C++, DB(SQLite, MySQL MongoDB), HTML/CSS
+- Languages: JavaScript/TypeScript, Python, C/C++, Java, DB (SQLite, MySQL, MongoDB, Redis), HTML/CSS
 - Frameworks: React.js, Next.js, Node.js, Django, Flask
 - Developer Tools: Git, GitHub, GitHub Actions, Kubernetes, Docker, Amazon Web Services (EC2, S3, CloudFront, Lambda, etc.)
 - Technologies: Webpack, Babel, Three.js, WebGPU, WebXR, WebSocket
