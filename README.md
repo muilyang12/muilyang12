@@ -16,6 +16,15 @@ Hello! I'm currently pursuing my Master's degree in Computer Science at The Univ
 - Mar. 2021 – Aug. 2023: Computer Science @ _Korea National Open University_, Republic of Korea
 - Mar. 2013 – Feb. 2021: Engineering @ _Yonsei University_, Republic of Korea
 
+### Certification
+
+- AWS Certified Machine Learning - Specialty
+  - Issued Aug. 2024, Expires Aug. 2027
+- AWS Certified Security - Specialty
+  - Issued Jul. 2024, Expires Jul. 2027
+- AWS Certified Developer - Associate
+  - Issued Feb. 2024, Expires Feb. 2027
+
 ### Technical Skills
 
 - Languages: JavaScript/TypeScript, Python, C/C++, Java, DB (SQLite, MySQL, MongoDB, Redis), HTML/CSS
