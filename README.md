@@ -11,9 +11,9 @@ Hello! I'm currently pursuing my Master's degree in Computer Science at The Univ
 
 ### Education 📖
 
-- Aug. 2024 – Present: Computer Science @ _The University of Texas at Dallas_, Richardson, TX
-- Mar. 2021 – Aug. 2023: Computer Science @ _Korea National Open University_, Republic of Korea
-- Mar. 2013 – Feb. 2021: Engineering @ _Yonsei University_, Republic of Korea
+- Aug. 2024 – Present: M.S. in Computer Science @ _The University of Texas at Dallas_, Richardson, TX
+- Mar. 2021 – Aug. 2023: B.S in Computer Science @ _Korea National Open University_, Republic of Korea
+- Mar. 2013 – Feb. 2021: B.S in Engineering @ _Yonsei University_, Republic of Korea
 
 ### Certifications 📃
 
