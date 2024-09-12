@@ -31,7 +31,7 @@ These experiences have allowed me to hone my skills in both frontend and backend
 ### Technical Skills 🖥️
 
 - Languages: JavaScript/TypeScript, Python, C/C++, Java, HTML/CSS
-- Frontend: React.js, Next.js, Node.js, Webpack, Babel, Three.js, WebGPU, WebXR, WebSocket
-- Backend: Node.js, Django, Flask, DB (SQLite, MySQL, MongoDB, Redis), WebSocket
+- Frontend: React.js, Next.js, Node.js, Webpack, Three.js, WebGPU, WebSocket
+- Backend: Node.js, Django, Flask, DB (SQLite, MySQL, MongoDB), WebSocket
 - Deployment: Docker, Amazon Web Services (EC2, S3, CloudFront, Lambda, etc.), Microsoft Azure
 - Tools: Git, GitHub, GitHub Actions, MS Office
