@@ -2,13 +2,9 @@
 
 ### Introduction
 
-I'm a software engineer skilled in JavaScript/TypeScript, Python, C/C++, Next.js/React.js, Node.js, Django, Flask, and AWS services. I'm currently pursuing a Master’s in Computer Science at The University of Texas at Dallas.
+Master's candidate in Computer Science (expected May 2026) with over 3 years of experience in software engineering, specializing in complex, scalable web applications, system optimization, and cloud technologies.
 
-With 3.5 years of experience as a software engineer, I developed applications using Next.js, Node.js, Docker, and libraries like Recoil and TanStack Query. These roles sharpened my ability to quickly learn new technologies and meet deadlines while collaborating across teams.
-
-Through hackathons, personal projects, and AWS certification, I’ve deepened my focus on deployment with Docker and AWS. I've also gained experience with LLM APIs and models, crafting effective prompts.
-
-These experiences have allowed me to hone my skills in both frontend and backend development. I am eager to apply this knowledge and continue growing in the field, contributing my expertise to future projects.
+I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.js, Django, Docker/Kubernetes and AWS services.
 
 ### Experience 🏢
 
@@ -31,7 +27,7 @@ These experiences have allowed me to hone my skills in both frontend and backend
 ### Technical Skills 🖥️
 
 - Languages: JavaScript/TypeScript, Python, C/C++, Java, HTML/CSS
-- Frontend: React.js, Next.js, Node.js, Webpack, Three.js, WebGPU, WebSocket
-- Backend: Node.js, Django, Flask, DB (SQLite, MySQL, MongoDB), WebSocket
-- Deployment: Docker, Amazon Web Services (EC2, S3, CloudFront, Lambda, etc.), Microsoft Azure
-- Tools: Git, GitHub, GitHub Actions, MS Office
+- Frontend: React.js, Next.js, Node.js, Three.js, Webpack
+- Backend: Node.js, Django, Django REST framework, Flask, SQL (SQLite, MySQL), NoSQL (MongoDB)
+- DevOps: Docker, Kubernetes, CI/CD (Bitbucket Pipelines), IaC (AWS CloudFormation), Amazon Web Services (EC2, S3, CloudFront, Lambda, etc.), Microsoft Azure
+- Tools: RESTful API, Git, GitHub, MS Office
