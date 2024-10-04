@@ -8,8 +8,8 @@ I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.j
 
 ### Experience 🏢
 
-- Jan. 2021 – May 2024: **Software Engineer** @ _Midas IT (MIDASoft Inc.)_, Republic of Korea
-- Sep. 2019 – May 2020: **Research Assistant** @ _The University of Texas at Arlington_, Arlington, TX
+- Jan. 2021 – May 2024: **Software Engineer** @ _Midas Software, Inc._, Republic of Korea
+- Sep. 2019 – May 2020: **Research Assistant** @ _University of Texas at Arlington_, Arlington, TX
 - Mar. 2017 – Jun. 2019: **Private Mathematics Tutor** _Self-employed_, Republic of Korea
 
 ### Education 📖
