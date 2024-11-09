@@ -28,6 +28,6 @@ I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.j
 
 - Languages: JavaScript/TypeScript, Python, C/C++, Java, HTML/CSS
 - Frontend: React.js, Next.js, Node.js, Three.js, Webpack
-- Backend: Node.js, Django, Django REST framework, Flask, SQL (SQLite, MySQL), NoSQL (MongoDB)
-- DevOps: Docker, Kubernetes, CI/CD (Bitbucket Pipelines), IaC (AWS CloudFormation), AWS (EC2, S3, Lambda, etc.), Microsoft Azure
-- Tools: RESTful API, Git, GitHub, MS Office
+- Backend: Node.js, Django, Django REST framework, Flask, SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- DevOps: Docker, Kubernetes, AWS (EC2, S3, Lambda, etc.), Microsoft Azure, CI/CD (GitHub Actions), IaC (Rerraform)
+- Tools: Linux, RESTful API, WebSocket, Git, LLM API (OpenAI API), Scikit-Learn
