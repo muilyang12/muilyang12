@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Master's candidate in Computer Science (expected May 2026) with over 3 years of experience in software engineering, specializing in complex, scalable web applications, system optimization, and cloud technologies.
+Master's candidate in Computer Science (expected May 2026) with over 3 years of experience in software engineering, specializing in developing complex, scalable web applications, optimizing systems, and leveraging cloud technologies.
 
 I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.js, Django, Docker/Kubernetes and AWS services.
 
