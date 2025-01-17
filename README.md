@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Master's candidate in Computer Science (expected May 2026) with over 3 years of experience in software engineering, specializing in developing complex, scalable web applications, optimizing systems, and leveraging cloud technologies.
+Master's candidate in Computer Science (expected Dec 2025) with over 3 years of experience in software engineering, specializing in developing complex, scalable web applications, optimizing systems, and leveraging cloud technologies.
 
 I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.js, Django, Docker/Kubernetes, AWS services, and CI/CD pipeline.
 
@@ -14,9 +14,9 @@ I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.j
 
 ### Education 📖
 
-- Aug. 2024 – May 2026 (Expected): M.S. in Computer Science @ _The University of Texas at Dallas_, Richardson, TX
+- Aug. 2024 – Dec 2025 (Expected): M.S. in Computer Science @ _The University of Texas at Dallas_, Richardson, TX
 - Mar. 2021 – Aug. 2023: B.S. in Computer Science @ _Korea National Open University_, Republic of Korea
-- Mar. 2013 – Feb. 2021: B.S. in Engineering @ _Yonsei University_, Republic of Korea
+- Mar. 2013 – Feb. 2021: B.S. in Civil Engineering @ _Yonsei University_, Republic of Korea
 
 ### Certifications 📃
 
@@ -28,6 +28,6 @@ I am proficient in JavaScript/TypeScript, Python, Java, Next.js/React.js, Node.j
 
 - Languages: JavaScript/TypeScript, Python, C/C++, Java, HTML/CSS
 - Frontend: React.js, Next.js, Node.js, Three.js, Webpack
-- Backend: Node.js, Django, Django REST framework, Flask, SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- DevOps: Docker, Kubernetes, AWS (EC2, S3, Lambda, etc.), Microsoft Azure, CI/CD (GitHub Actions), IaC (Terraform)
+- Backend: Node.js, Django, Django REST framework, Spring Boot, SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- DevOps: Docker, Kubernetes, AWS (EC2, S3, Lambda, etc.), Microsoft Azure, CI/CD (Jenkins, GitHub Actions), IaC (Terraform)
 - Tools: Linux, RESTful API, WebSocket, Git, LLM API (OpenAI API), Scikit-Learn
